@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">atvAula8</string>
+    <string name="newI">new</string>
+    <string name="open">open</string>
+    <string name="save">save</string>
+    <string name="menus_demonstration">Menus Demonstration!</string>
+    <string name="saveAs">save as</string>
+    <string name="saveCopy">save copy</string>
+
+</resources>

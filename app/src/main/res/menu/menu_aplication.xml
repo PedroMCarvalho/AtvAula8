@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/new_item" android:title="@string/newI" />
+    <item android:id="@+id/open_item" android:title="@string/open" />
+    <item android:id="@+id/save_item" android:title="@string/save" >
+        <menu>
+            <item android:id="@+id/save_as" android:title="@string/saveAs" />
+            <item android:id="@+id/save_copy" android:title="@string/saveCopy" />
+        </menu>
+    </item>
+
+</menu>
